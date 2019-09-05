@@ -22,6 +22,7 @@ public class MonthByDays {
                 break;
             default:
                 System.out.println("There are no months with exactly " + days + " days."  );
+                break;
         }
     }
 }
